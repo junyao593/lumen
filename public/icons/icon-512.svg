@@ -1,0 +1,5 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='512' height='512' viewBox='0 0 512 512'>
+  <rect width='512' height='512' rx='112.64' fill='#0f0f0f'/>
+  <circle cx='256' cy='256' r='179.2' fill='#c8a97e' opacity='0.15'/>
+  <text x='256' y='322.56' font-family='Georgia,serif' font-size='194.56' font-weight='bold' fill='#c8a97e' text-anchor='middle'>L</text>
+</svg>

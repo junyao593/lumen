@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "type": "mirror",
+    "text": "你不需要变得完美，你只需要变得真实。",
+    "author": "未知",
+    "context": "这句话来自心理学对「完美主义」的研究——很多人把「真实的自己」和「理想的自己」之间的距离当成失败，但其实那个距离本身就是成长的空间。",
+    "tags": ["完美主义", "自我接纳", "真实"],
+    "source_url": null,
+    "source_label": null
+  },
+  {
+    "id": 2,
+    "type": "mirror",
+    "text": "有时候，最勇敢的事是承认自己也不知道答案。",
+    "author": "未知",
+    "context": "在一个推崇「有方向感」「目标明确」的文化里，承认不确定是一种逆流而上的诚实。很多人假装知道答案，其实只是怕被认为没有主见。",
+    "tags": ["不确定", "勇气", "诚实"],
+    "source_url": null,
+    "source_label": null
+  },
+  {
+    "id": 3,
+    "type": "mirror",
+    "text": "你感受到的，就是真实发生着的。",
+    "author": "未知",
+    "context": "心理学家 Carl Rogers 认为，人们常常用「理性」压制自己的感受，告诉自己「不应该这样想」。但感受本身没有对错，它是你和世界接触留下的痕迹。",
+    "tags": ["情绪", "自我感知", "感受"],
+    "source_url": "https://en.wikipedia.org/wiki/Carl_Rogers",
+    "source_label": "Carl Rogers — Wikipedia"
+  },
+  {
+    "id": 4,
+    "type": "mirror",
+    "text": "疲惫不是软弱，它是你一直在努力的证明。",
+    "author": "未知",
+    "context": "很多人在感到精力耗尽时，第一反应是责怪自己「不够努力」或「太脆弱」。但疲惫往往恰恰相反——它是你长期高度投入之后身体和心理发出的信号。",
+    "tags": ["疲惫", "精力", "自我苛责"],
+    "source_url": null,
+    "source_label": null
+  },
+  {
+    "id": 5,
+    "type": "mirror",
+    "text": "不确定本身，也是一种答案。",
+    "author": "未知",
+    "context": "哲学家 Keats 称之为「负向能力」（Negative Capability）——能够在不确定、神秘、怀疑中停留，不急于寻找答案，本身就是一种高级的思维状态。",
+    "tags": ["不确定", "方向", "接受"],
+    "source_url": "https://en.wikipedia.org/wiki/Negative_capability",
+    "source_label": "Negative Capability — Wikipedia"
+  },
+  {
+    "id": 6,
+    "type": "mirror",
+    "text": "你现在感觉到的混乱，可能正是一段新清晰到来之前的样子。",
+    "author": "未知",
+    "context": "认知科学里有个概念叫「整合前的混乱」——大脑在重新组织旧有认知、形成新的理解之前，往往会有一段时间感到混乱或不安，就像房间在整理好之前会比原来更乱。",
+    "tags": ["混乱", "成长", "转变"],
+    "source_url": null,
+    "source_label": null
+  },
+  {
+    "id": 7,
+    "type": "mirror",
+    "text": "慢下来，不是落后，是在听自己说话。",
+    "author": "未知",
+    "context": "在一个强调效率和速度的时代，「慢」被污名化为懒惰或无能。但很多心理学研究表明，慢下来、给自己空间反思，是高效决策和情绪调节的前提。",
+    "tags": ["节奏", "反思", "效率焦虑"],
+    "source_url": null,
+    "source_label": null
+  },
+  {
+    "id": 8,
+    "type": "mirror",
+    "text": "你已经比昨天的自己更了解自己了，哪怕只多了一点点。",
+    "author": "未知",
+    "context": "自我认知是一个终身的过程，不是某天突然「想通了」。心理学家 Tasha Eurich 的研究发现，真正有自我认知的人很少，但每一次诚实的反思都是积累。",
+    "tags": ["自我认知", "成长", "积累"],
+    "source_url": "https://en.wikipedia.org/wiki/Self-awareness",
+    "source_label": "Self-awareness — Wikipedia"
+  },
+  {
+    "id": 9,
+    "type": "stretch",
+    "text": "The cave you fear to enter holds the treasure you seek.",
+    "author": "Joseph Campbell",
+    "context": "坎贝尔是「英雄之旅」理论的提出者。他研究了全球数百个神话故事后发现，几乎所有英雄都必须走进最恐惧的地方，才能找到改变自己命运的东西——这个规律在现实人生里同样成立。",
+    "tags": ["恐惧", "成长", "勇气"],
+    "source_url": "https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces",
+    "source_label": "The Hero with a Thousand Faces — Wikipedia"
+  },
+  {
+    "id": 10,
+    "type": "stretch",
+    "text": "你所逃避的，往往是你最需要靠近的。",
+    "author": "未知",
+    "context": "心理学中的「回避行为」是焦虑维持的核心机制——我们越逃避某件事，它对我们的控制力就越强。接触疗法（Exposure Therapy）的核心就是：靠近，而不是远离。",
+    "tags": ["逃避", "焦虑", "直面"],
+    "source_url": "https://en.wikipedia.org/wiki/Exposure_therapy",
+    "source_label": "Exposure Therapy — Wikipedia"
+  },
+  {
+    "id": 11,
+    "type": "stretch",
+    "text": "成长从来不舒适，但它的另一面是自由。",
+    "author": "未知",
+    "context": "神经科学研究显示，大脑在舒适区内运作时几乎不产生新的神经连接，而在略有挑战的状态下，学习和成长的效率最高——这个区域被称为「最近发展区」。",
+    "tags": ["舒适区", "成长", "自由"],
+    "source_url": "https://en.wikipedia.org/wiki/Zone_of_proximal_development",
+    "source_label": "Zone of Proximal Development — Wikipedia"
+  },
+  {
+    "id": 12,
+    "type": "stretch",
+    "text": "Between stimulus and response there is a space. In that space is our power to choose our response.",
+    "author": "Viktor Frankl",
+    "context": "弗兰克尔是奥斯维辛集中营的幸存者，也是存在主义心理学的奠基人。他在极端苦难中发现：人最后的自由，是选择如何回应处境的自由。这句话来自他的代表作《活出意义来》。",
+    "tags": ["选择", "反应", "自由意志"],
+    "source_url": "https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning",
+    "source_label": "Man's Search for Meaning — Wikipedia"
+  },
+  {
+    "id": 13,
+    "type": "stretch",
+    "text": "你以为的终点，有时只是下一段旅程的起点。",
+    "author": "未知",
+    "context": "心理学家 Carol Dweck 在「成长型思维」研究中发现，把人生视为阶段性「完成」的人，往往在遇到新挑战时更容易崩溃；而把每个终点视为新起点的人，反而更有韧性。",
+    "tags": ["终点", "新开始", "韧性"],
+    "source_url": "https://en.wikipedia.org/wiki/Mindset_(book)",
+    "source_label": "Mindset — Carol Dweck"
+  },
+  {
+    "id": 14,
+    "type": "stretch",
+    "text": "真正的改变，始于你愿意对自己诚实的那一刻。",
+    "author": "未知",
+    "context": "改变研究（Change Research）发现，大多数人对「想要改变」和「真正改变」之间的距离来自一个关键步骤：真实地看见自己现在的状态，而不是「应该的状态」。",
+    "tags": ["改变", "诚实", "自我认知"],
+    "source_url": null,
+    "source_label": null
+  },
+  {
+    "id": 15,
+    "type": "stretch",
+    "text": "You are not your thoughts. You are the one who notices them.",
+    "author": "未知",
+    "context": "这是正念（Mindfulness）和接受承诺疗法（ACT）的核心洞察。当你意识到「我在想 X」而不是「我就是 X」，就产生了一种叫「认知脱融」的心理距离——这个距离，是自由的开始。",
+    "tags": ["正念", "思维", "自我观察"],
+    "source_url": "https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy",
+    "source_label": "Acceptance & Commitment Therapy — Wikipedia"
+  },
+  {
+    "id": 16,
+    "type": "stretch",
+    "text": "舒适区的边界，就是你真正开始生长的地方。",
+    "author": "未知",
+    "context": "心理学家 Lev Vygotsky 提出「最近发展区」：真正的学习发生在「刚好有点难」的地方，太容易无聊，太难会崩溃，边界处才是成长发生的位置。",
+    "tags": ["边界", "挑战", "成长"],
+    "source_url": "https://en.wikipedia.org/wiki/Zone_of_proximal_development",
+    "source_label": "Zone of Proximal Development — Wikipedia"
+  },
+  {
+    "id": 17,
+    "type": "playful",
+    "text": "人生就像一杯没加糖的美式，苦，但有人就是喜欢。",
+    "author": "未知",
+    "context": "这其实是在说一种心理现象：人们对「苦」的体验很大程度上取决于他们赋予它的意义。同样的困难，在不同的叙事框架下，可以是折磨，也可以是独特的风味。",
+    "tags": ["苦难", "意义", "幽默"],
+    "source_url": null,
+    "source_label": null
+  },
+  {
+    "id": 18,
+    "type": "playful",
+    "text": "有些问题没有答案，但光是愿意去问，就已经很了不起了。",
+    "author": "未知",
+    "context": "苏格拉底说「我唯一知道的就是我什么都不知道」——这不是认输，而是一种更高级的智识姿态。愿意提出好问题，比假装拥有答案要难得多。",
+    "tags": ["提问", "好奇心", "智慧"],
+    "source_url": "https://en.wikipedia.org/wiki/Socratic_method",
+    "source_label": "Socratic Method — Wikipedia"
+  },
+  {
+    "id": 19,
+    "type": "playful",
+    "text": "你的存在本身就是一件很了不起的事，哪怕你现在只是在床上刷手机。",
+    "author": "未知",
+    "context": "存在主义哲学有个核心命题：存在先于本质。你不需要先「做到什么」才有价值，存在本身就是价值的起点。当然，这不是在鼓励你一直躺着——只是提醒你别太苛刻。",
+    "tags": ["存在", "价值", "自我接纳"],
+    "source_url": "https://en.wikipedia.org/wiki/Existence_precedes_essence",
+    "source_label": "Existence precedes essence — Wikipedia"
+  },
+  {
+    "id": 20,
+    "type": "playful",
+    "text": "We are all just walking each other home.",
+    "author": "Ram Dass",
+    "context": "Ram Dass 是 60 年代从哈佛转型为灵性导师的心理学家。这句话出自他晚年的访谈，讲的是人与人之间那种最简单的陪伴关系——不需要解决问题，只需要同行。",
+    "tags": ["陪伴", "关系", "归属"],
+    "source_url": "https://en.wikipedia.org/wiki/Ram_Dass",
+    "source_label": "Ram Dass — Wikipedia"
+  },
+  {
+    "id": 21,
+    "type": "playful",
+    "text": "It's okay to be a work in progress and a masterpiece at the same time.",
+    "author": "未知",
+    "context": "这句话挑战了「先完成才有价值」的线性思维。就像一幅画在完成之前的每个阶段也有它独特的美——「未完成」不等于「不完整」。",
+    "tags": ["未完成", "过程", "价值"],
+    "source_url": null,
+    "source_label": null
+  },
+  {
+    "id": 22,
+    "type": "playful",
+    "text": "有时候最深刻的领悟，来自于一次说走就走的发呆。",
+    "author": "未知",
+    "context": "神经科学研究发现，大脑的「默认模式网络」（Default Mode Network）在你放松发呆时最活跃——这个网络负责自我反思、创意联想和意义建构。发呆，其实是高级脑力活动。",
+    "tags": ["发呆", "创意", "休息"],
+    "source_url": "https://en.wikipedia.org/wiki/Default_mode_network",
+    "source_label": "Default Mode Network — Wikipedia"
+  },
+  {
+    "id": 23,
+    "type": "playful",
+    "text": "你今天的迷茫，是明天某个清晰答案的序章。",
+    "author": "未知",
+    "context": "迷茫通常是两种认知状态之间的过渡——旧的图式已经不够用，新的还没有形成。从这个角度看，迷茫不是问题，而是大脑正在重建的信号。",
+    "tags": ["迷茫", "过渡", "成长"],
+    "source_url": null,
+    "source_label": null
+  },
+  {
+    "id": 24,
+    "type": "playful",
+    "text": "Not all those who wander are lost.",
+    "author": "J.R.R. Tolkien",
+    "context": "这句诗出自托尔金《魔戒》，描述的是游侠阿拉贡——一个看似漫无目的地游荡，实则始终清楚自己使命的人。「漂泊」的外形，不等于「迷失」的内心。",
+    "tags": ["漂泊", "方向", "使命"],
+    "source_url": "https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring",
+    "source_label": "The Fellowship of the Ring — Wikipedia"
+  },
+  {
+    "id": 25,
+    "type": "mirror",
+    "text": "你已经在尝试了，这本身就是一种勇气。",
+    "author": "未知",
+    "context": "心理学家 Brené Brown 在研究「脆弱的力量」时发现，人们往往低估了「开始尝试」这个动作的难度——光是愿意进入不确定，就已经需要相当的勇气。",
+    "tags": ["尝试", "勇气", "开始"],
+    "source_url": "https://en.wikipedia.org/wiki/Bren%C3%A9_Brown",
+    "source_label": "Brené Brown — Wikipedia"
+  },
+  {
+    "id": 26,
+    "type": "stretch",
+    "text": "The most common form of despair is not being who you are.",
+    "author": "Kierkegaard",
+    "context": "克尔凯郭尔是存在主义哲学之父。他认为人类最深的痛苦，不来自外部的失败，而来自与自己真实本质的分离——活成了「别人期待的样子」，而不是「自己本来的样子」。",
+    "tags": ["真实自我", "绝望", "存在"],
+    "source_url": "https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard",
+    "source_label": "Søren Kierkegaard — Wikipedia"
+  },
+  {
+    "id": 27,
+    "type": "mirror",
+    "text": "允许自己不知道，也是一种智慧。",
+    "author": "未知",
+    "context": "禅宗有个概念叫「初心」（Beginner's Mind）——对「不知道」保持开放，比固守「已知」能学到更多。苏格拉底也用自己的「无知」作为哲学探索的起点。",
+    "tags": ["不知道", "开放", "智慧"],
+    "source_url": "https://en.wikipedia.org/wiki/Shoshin",
+    "source_label": "Shoshin (Beginner's Mind) — Wikipedia"
+  },
+  {
+    "id": 28,
+    "type": "stretch",
+    "text": "What would you do if you weren't afraid?",
+    "author": "未知",
+    "context": "这是谢里尔·桑德伯格在《向前一步》中反复提到的自问句。恐惧往往以「理性分析」的面目出现，让我们以为我们是在做选择，其实只是在逃避。",
+    "tags": ["恐惧", "选择", "行动"],
+    "source_url": "https://en.wikipedia.org/wiki/Lean_In",
+    "source_label": "Lean In — Wikipedia"
+  },
+  {
+    "id": 29,
+    "type": "playful",
+    "text": "你不需要把自己想清楚才能开始活。",
+    "author": "未知",
+    "context": "很多人等待「想清楚了再行动」，但存在主义哲学家萨特认为，自我不是被发现的，而是通过选择和行动被创造的——先活，意义才会慢慢浮现。",
+    "tags": ["行动", "自我", "等待"],
+    "source_url": "https://en.wikipedia.org/wiki/Existentialism",
+    "source_label": "Existentialism — Wikipedia"
+  },
+  {
+    "id": 30,
+    "type": "mirror",
+    "text": "有些事情你一直知道，只是还没准备好承认。",
+    "author": "未知",
+    "context": "心理学把这种状态叫「前意识」（Preconscious）——某些认知已经在那里了，但我们出于各种原因（恐惧、不舒适、代价太大）选择不把它推进意识层面。",
+    "tags": ["自知", "承认", "内心"],
+    "source_url": "https://en.wikipedia.org/wiki/Preconscious",
+    "source_label": "Preconscious — Wikipedia"
+  }
+]

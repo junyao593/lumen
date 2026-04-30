@@ -1,0 +1,35 @@
+{
+  "onboarding": {
+    "question": "你现在更像哪种状态？",
+    "options": [
+      "在寻找方向",
+      "在消化某件事",
+      "想要一些不一样的",
+      "慢慢变好中"
+    ],
+    "cta": "开始"
+  },
+  "home": {
+    "catGreeting": [
+      "Hey～今天有什么想说的吗？",
+      "今天怎么样？有什么碎片想留下来？",
+      "在想什么？随便说说也行。",
+      "今天的你，是什么感觉？"
+    ],
+    "dailyQuestion": "今日一问",
+    "inputPlaceholder": "随便说说…"
+  },
+  "result": {
+    "todayReflection": "Today's reflection",
+    "relatedContent": "你可能会感兴趣",
+    "expand": "继续聊聊",
+    "edit": "编辑",
+    "share": "分享"
+  },
+  "nav": {
+    "home": "首页",
+    "history": "历史",
+    "pattern": "脉络",
+    "profile": "我"
+  }
+}
