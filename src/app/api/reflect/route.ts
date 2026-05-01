@@ -90,13 +90,15 @@ export async function POST(req: NextRequest) {
 
     return NextResponse.json({ ...reflection, selectedQuotes });
   } catch (e) {
-    console.error("reflect error:", e);
+    const msg = e instanceof Error ? e.message : String(e);
+    console.error("reflect error:", msg);
     return NextResponse.json({
       mirror: "你说的这些，我都听到了。",
       meaning: "有时候，把它说出来，本身就是一件有意义的事。",
       expand: "如果可以的话，再多告诉我一点？",
       themes: [],
       selectedQuotes: [],
+      _error: msg,
     });
   }
 }
