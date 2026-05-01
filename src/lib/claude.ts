@@ -3,7 +3,7 @@ export interface ReflectionResult {
   meaning: string;
   expand: string;
   themes: string[];
-  selectedQuotes?: { id: number; connection: string }[];
+  selectedQuotes?: { text: string; author: string; book?: string | null; type: string; connection: string; url?: string | null }[];
 }
 
 export interface ExpandQuote {
