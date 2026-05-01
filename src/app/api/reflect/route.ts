@@ -1,8 +1,9 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { NextRequest, NextResponse } from "next/server";
-import { getAnthropicKey } from "@/lib/env";
 
-const client = new Anthropic({ apiKey: getAnthropicKey() });
+function getClient() {
+  return new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY! });
+}
 
 // Step 1: Generate reflection + themes only
 async function generateReflection(input: string, questionText: string | undefined, onboardingLabel: string) {
@@ -25,7 +26,7 @@ async function generateReflection(input: string, questionText: string | undefine
     ? `今日问题：${questionText}\n\n我的回答/想法：${input}`
     : input;
 
-  const message = await client.messages.create({
+  const message = await getClient().messages.create({
     model: "claude-sonnet-4-6",
     max_tokens: 800,
     system: systemPrompt,
@@ -62,7 +63,7 @@ async function findQuotes(input: string, themes: string[]) {
 
   const userMessage = `用户说：「${input}」\n核心主题：${themes.join("、")}`;
 
-  const message = await client.messages.create({
+  const message = await getClient().messages.create({
     model: "claude-sonnet-4-6",
     max_tokens: 2000,
     system: systemPrompt,

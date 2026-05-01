@@ -1,9 +1,8 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { NextRequest, NextResponse } from "next/server";
-import { getAnthropicKey } from "@/lib/env";
 
 export async function POST(req: NextRequest) {
-  const client = new Anthropic({ apiKey: getAnthropicKey() });
+  const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY! });
   const { messages, originalInput } = await req.json();
 
   const systemPrompt = `你是 Lumen，一个陪伴用户自我发现的 companion。语气：真诚细腻、偶尔有点 witty、有洞察但不说教。
